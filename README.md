@@ -1,1 +1,1 @@
-# Weathr
+# WeatherApp
